@@ -28,6 +28,8 @@ make: Leaving directory '/home/sathishpremabai/lineage/kernel/motorola/msm8916'
 
 
 
-soln :https://forum.xda-developers.com/android/software-hacking/reference-how-to-compile-android-kernel-t3627297
+soln 1:https://forum.xda-developers.com/android/software-hacking/reference-how-to-compile-android-kernel-t3627297
 
+edit 1:
+soln1 doesnt work...still serching for soln 
 ********************************************************************************************************************************
